@@ -1,5 +1,5 @@
 <h1 align="center">flick9000</h1>
-<h3 align="center">Front-End Developer</h3>
+<h3 align="center">Front-End Developer | Windows Enjoyer</h3>
 
 <p align="center">🔭 I’m currently working on <a href="https://github.com/flick9000/winscript">WinScript</a></p> 
 
