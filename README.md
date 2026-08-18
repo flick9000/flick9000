@@ -1,16 +1,14 @@
-## Hi there 👋
+### Hi there, I'm Francesco 👋
 
-<!--
-**flick9000/flick9000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Developer from Italy passionate about building software, open-source projects, and products.
 
-Here are some ideas to get you started:
+### Projects & Works
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **[WinScript](https://github.com/flick9000/WinScript)**  
+  An open-source tool designed to build custom Windows scripts from scratch.
+
+* **WinProcess** *(In Development)*  
+  A modern Windows process management tool built for system automation and optimization.
+
+### Connect with Me
+- **Email:** *me@francescogerardi.com*
