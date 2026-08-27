@@ -1,6 +1,6 @@
 ### Hi there, I'm Francesco 👋
 
-Software Developer from Italy passionate about building software, open-source projects, and products.
+Software developer from Italy passionate about building software, open-source projects, and products.
 
 ### Projects & Works
 
