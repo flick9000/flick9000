@@ -4,10 +4,10 @@ Software developer from Italy passionate about building software, open-source pr
 
 ### Projects & Works
 
-* **[WinScript](https://github.com/flick9000/WinScript)**  
+* **[WinScript](https://github.com/flick9000/winscript)**  
   An open-source tool designed to build custom Windows scripts from scratch.
 
-* **WinProcess** *(In Development)*  
+* **[WinProcess](https://github.com/flick9000/winprocess)**  
   A modern Windows process management tool built for system automation and optimization.
 
 ### Connect with Me
