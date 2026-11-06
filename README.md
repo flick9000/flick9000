@@ -5,10 +5,10 @@ Software developer from Italy passionate about building software, open-source pr
 ### Projects & Works
 
 * **[WinScript](https://github.com/flick9000/winscript)**  
-  An open-source tool designed to build custom Windows scripts from scratch.
+  Windows utlity for system configuration, performance optimization, privacy, and automation.
 
 * **[WinProcess](https://github.com/flick9000/winprocess)**  
-  A modern Windows process management tool built for system automation and optimization.
+  Process management, system optimization, and task management in one lightweight Windows app.
 
 ### Connect with Me
 - **Email:** *me@francescogerardi.com*
